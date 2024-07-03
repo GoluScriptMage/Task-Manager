@@ -1,6 +1,7 @@
 {
   "name": "refs-demo-project",
   "private": true,
+  "homepage": "https://github.com/GoluScriptMage/Task-Manager",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
