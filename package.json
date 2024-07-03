@@ -1,7 +1,6 @@
 {
   "name": "refs-demo-project",
   "private": true,
-  "homepage": "https://GoluScriptMage.github.io/project-manager",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
